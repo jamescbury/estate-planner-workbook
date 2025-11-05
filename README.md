@@ -6,3 +6,5 @@ I purposly kept this as an excel workbook to keep it simple and familiar - I als
 This is a public repo - if you find issues or have suggestions feel free to post them here.  I will maintain this every *once in a while*.  I added the macro code here for tracking purposes, but if you want to apply newer releases you will need to import the modules into your workbook.
 
 **PLEASE DO NOT POST COMPLETED WORKBOOKS HERE**
+
+Oh - one other piece of advice that my cousin gave me that was invalueable... if you find yourself the executor of somone's will DO NOT disconenct their cellular service until you are able to close out their accounts.  You will need to get passwords and MFA pins for quite a while.
